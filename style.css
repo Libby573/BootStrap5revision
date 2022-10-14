@@ -1,0 +1,8 @@
+body{
+    height: 100%;
+    font-size: 1rem
+}
+gradient{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(104,191,217,1) 35%, rgba(235,1,178,1) 100%);
+}
